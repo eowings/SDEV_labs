@@ -1,2 +1,0 @@
-username,encr_pawd
-Admin,SecureP@ssword
