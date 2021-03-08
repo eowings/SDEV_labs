@@ -1,0 +1,38 @@
+Run started:2021-02-08 05:44:29.632792
+
+Test results:
+>> Issue: [B105:hardcoded_password_string] Possible hardcoded password: ''
+   Severity: Low   Confidence: Medium
+   Location: D:\Class\SDEV_300\Labs\owings_lab_two.py:11
+   More Info: https://bandit.readthedocs.io/en/latest/plugins/b105_hardcoded_password_string.html
+10	    """Password Function"""
+11	    password = ''
+12	    length = input ("How long would you like your password?"
+
+--------------------------------------------------
+>> Issue: [B311:blacklist] Standard pseudo-random generators are not suitable for security/cryptographic purposes.
+   Severity: Low   Confidence: High
+   Location: D:\Class\SDEV_300\Labs\owings_lab_two.py:55
+   More Info: https://bandit.readthedocs.io/en/latest/blacklists/blacklist_calls.html#b311-random
+54	    all_list = ([secrets.choice(string.punctuation),
+55	                 random.choice(string.digits),
+56	                 secrets.choice(string.ascii_lowercase),
+
+--------------------------------------------------
+
+Code scanned:
+	Total lines of code: 519
+	Total lines skipped (#nosec): 0
+
+Run metrics:
+	Total issues (by severity):
+		Undefined: 0.0
+		Low: 2.0
+		Medium: 0.0
+		High: 0.0
+	Total issues (by confidence):
+		Undefined: 0.0
+		Low: 0.0
+		Medium: 1.0
+		High: 1.0
+Files skipped (0):
