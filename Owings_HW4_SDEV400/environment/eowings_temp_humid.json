@@ -1,0 +1,497 @@
+[
+ {
+   "device_data": {"humidity" :"48.1" , "temperature" :"71.6"},
+   "device_id": 10,
+   "sample_time": 1620318833324
+ },
+ {
+   "device_data": {"humidity" :"48.7" , "temperature" :"73.04"},
+   "device_id": 10,
+   "sample_time": 1620321237683
+ },
+ {
+   "device_data": {"humidity" :"47.7" , "temperature" :"72.14"},
+   "device_id": 10,
+   "sample_time": 1620322428166
+ },
+ {
+   "device_data": {"humidity" :"39.2" , "temperature" :"70.34"},
+   "device_id": 10,
+   "sample_time": 1620323729271
+ },
+ {
+   "device_data": {"humidity" :"39" , "temperature" :"69.62"},
+   "device_id": 10,
+   "sample_time": 1620324638738
+ },
+ {
+   "device_data": {"humidity" :"43.2" , "temperature" :"63.5"},
+   "device_id": 10,
+   "sample_time": 1620325545079
+ },
+ {
+   "device_data": {"humidity" :"45.7" , "temperature" :"64.4"},
+   "device_id": 10,
+   "sample_time": 1620326451553
+ },
+ {
+   "device_data": {"humidity" :"44.6" , "temperature" :"63.32"},
+   "device_id": 10,
+   "sample_time": 1620327358007
+ },
+ {
+   "device_data": {"humidity" :"38.3" , "temperature" :"71.06"},
+   "device_id": 10,
+   "sample_time": 1620329606974
+ },
+ {
+   "device_data": {"humidity" :"36.4" , "temperature" :"72.5"},
+   "device_id": 10,
+   "sample_time": 1620329839223
+ },
+ {
+   "device_data": {"humidity" :"36.6" , "temperature" :"72.5"},
+   "device_id": 10,
+   "sample_time": 1620330746370
+ },
+ {
+   "device_data": {"humidity" :"36.6" , "temperature" :"72.68"},
+   "device_id": 10,
+   "sample_time": 1620331652843
+ },
+ {
+   "device_data": {"humidity" :"37.2" , "temperature" :"73.04"},
+   "device_id": 10,
+   "sample_time": 1620332559362
+ },
+ {
+   "device_data": {"humidity" :"36.5" , "temperature" :"72.86"},
+   "device_id": 10,
+   "sample_time": 1620333465889
+ },
+ {
+   "device_data": {"humidity" :"36.6" , "temperature" :"73.58"},
+   "device_id": 10,
+   "sample_time": 1620335279048
+ },
+ {
+   "device_data": {"humidity" :"37.5" , "temperature" :"71.42"},
+   "device_id": 10,
+   "sample_time": 1620337104301
+ },
+ {
+   "device_data": {"humidity" :"36" , "temperature" :"74.84"},
+   "device_id": 10,
+   "sample_time": 1620338010821
+ },
+ {
+   "device_data": {"humidity" :"35.3" , "temperature" :"74.84"},
+   "device_id": 10,
+   "sample_time": 1620339826901
+ },
+ {
+   "device_data": {"humidity" :"35.8" , "temperature" :"75.56"},
+   "device_id": 10,
+   "sample_time": 1620340733443
+ },
+ {
+   "device_data": {"humidity" :"36" , "temperature" :"73.4"},
+   "device_id": 10,
+   "sample_time": 1620341639962
+ },
+ {
+   "device_data": {"humidity" :"36.8" , "temperature" :"72.86"},
+   "device_id": 10,
+   "sample_time": 1620342547370
+ },
+ {
+   "device_data": {"humidity" :"37.1" , "temperature" :"73.94"},
+   "device_id": 10,
+   "sample_time": 1620343453861
+ },
+ {
+   "device_data": {"humidity" :"38.6" , "temperature" :"69.98"},
+   "device_id": 10,
+   "sample_time": 1620344360238
+ },
+ {
+   "device_data": {"humidity" :"50" , "temperature" :"69.44"},
+   "device_id": 10,
+   "sample_time": 1620417168605
+ },
+ {
+   "device_data": {"humidity" :"62.6" , "temperature" :"61.34"},
+   "device_id": 10,
+   "sample_time": 1620418906753
+ },
+ {
+   "device_data": {"humidity" :"60.6" , "temperature" :"63.86"},
+   "device_id": 10,
+   "sample_time": 1620418936750
+ },
+ {
+   "device_data": {"humidity" :"53.3" , "temperature" :"66.74"},
+   "device_id": 10,
+   "sample_time": 1620419004961
+ },
+ {
+   "device_data": {"humidity" :"53.1" , "temperature" :"66.38"},
+   "device_id": 10,
+   "sample_time": 1620419019240
+ },
+ {
+   "device_data": {"humidity" :"54.1" , "temperature" :"65.66"},
+   "device_id": 10,
+   "sample_time": 1620419925722
+ },
+ {
+   "device_data": {"humidity" :"61.5" , "temperature" :"58.64"},
+   "device_id": 10,
+   "sample_time": 1620420841668
+ },
+ {
+   "device_data": {"humidity" :"60.9" , "temperature" :"57.92"},
+   "device_id": 10,
+   "sample_time": 1620421748366
+ },
+ {
+   "device_data": {"humidity" :"64.7" , "temperature" :"57.2"},
+   "device_id": 10,
+   "sample_time": 1620422654911
+ },
+ {
+   "device_data": {"humidity" :"66.4" , "temperature" :"56.84"},
+   "device_id": 10,
+   "sample_time": 1620423561363
+ },
+ {
+   "device_data": {"humidity" :"67.5" , "temperature" :"57.02"},
+   "device_id": 10,
+   "sample_time": 1620424467843
+ },
+ {
+   "device_data": {"humidity" :"70.9" , "temperature" :"56.12"},
+   "device_id": 10,
+   "sample_time": 1620426283949
+ },
+ {
+   "device_data": {"humidity" :"71.2" , "temperature" :"55.22"},
+   "device_id": 10,
+   "sample_time": 1620428100123
+ },
+ {
+   "device_data": {"humidity" :"72.9" , "temperature" :"54.68"},
+   "device_id": 10,
+   "sample_time": 1620429913220
+ },
+ {
+   "device_data": {"humidity" :"74.4" , "temperature" :"54.32"},
+   "device_id": 10,
+   "sample_time": 1620430820340
+ },
+ {
+   "device_data": {"humidity" :"74.4" , "temperature" :"54.32"},
+   "device_id": 10,
+   "sample_time": 1620431726830
+ },
+ {
+   "device_data": {"humidity" :"75.7" , "temperature" :"53.96"},
+   "device_id": 10,
+   "sample_time": 1620432633345
+ },
+ {
+   "device_data": {"humidity" :"76" , "temperature" :"53.96"},
+   "device_id": 10,
+   "sample_time": 1620433540218
+ },
+ {
+   "device_data": {"humidity" :"76.7" , "temperature" :"53.6"},
+   "device_id": 10,
+   "sample_time": 1620435353435
+ },
+ {
+   "device_data": {"humidity" :"76.4" , "temperature" :"54.14"},
+   "device_id": 10,
+   "sample_time": 1620436260059
+ },
+ {
+   "device_data": {"humidity" :"74.1" , "temperature" :"53.24"},
+   "device_id": 10,
+   "sample_time": 1620437166514
+ },
+ {
+   "device_data": {"humidity" :"74.6" , "temperature" :"52.88"},
+   "device_id": 10,
+   "sample_time": 1620438073034
+ },
+ {
+   "device_data": {"humidity" :"75.2" , "temperature" :"52.34"},
+   "device_id": 10,
+   "sample_time": 1620438979935
+ },
+ {
+   "device_data": {"humidity" :"75.1" , "temperature" :"51.98"},
+   "device_id": 10,
+   "sample_time": 1620439886463
+ },
+ {
+   "device_data": {"humidity" :"74.6" , "temperature" :"51.62"},
+   "device_id": 10,
+   "sample_time": 1620440792971
+ },
+ {
+   "device_data": {"humidity" :"74.6" , "temperature" :"51.62"},
+   "device_id": 10,
+   "sample_time": 1620441699514
+ },
+ {
+   "device_data": {"humidity" :"74.3" , "temperature" :"51.44"},
+   "device_id": 10,
+   "sample_time": 1620442615132
+ },
+ {
+   "device_data": {"humidity" :"74.8" , "temperature" :"50.36"},
+   "device_id": 10,
+   "sample_time": 1620444431448
+ },
+ {
+   "device_data": {"humidity" :"75" , "temperature" :"49.64"},
+   "device_id": 10,
+   "sample_time": 1620445338341
+ },
+ {
+   "device_data": {"humidity" :"74.7" , "temperature" :"48.74"},
+   "device_id": 10,
+   "sample_time": 1620447151497
+ },
+ {
+   "device_data": {"humidity" :"75.4" , "temperature" :"48.02"},
+   "device_id": 10,
+   "sample_time": 1620448058034
+ },
+ {
+   "device_data": {"humidity" :"75.5" , "temperature" :"47.84"},
+   "device_id": 10,
+   "sample_time": 1620448964800
+ },
+ {
+   "device_data": {"humidity" :"75.7" , "temperature" :"47.66"},
+   "device_id": 10,
+   "sample_time": 1620449871364
+ },
+ {
+   "device_data": {"humidity" :"76" , "temperature" :"46.76"},
+   "device_id": 10,
+   "sample_time": 1620451684905
+ },
+ {
+   "device_data": {"humidity" :"76.4" , "temperature" :"46.04"},
+   "device_id": 10,
+   "sample_time": 1620453497919
+ },
+ {
+   "device_data": {"humidity" :"76.1" , "temperature" :"45.5"},
+   "device_id": 10,
+   "sample_time": 1620487128744
+ },
+ {
+   "device_data": {"humidity" :"55" , "temperature" :"61.34"},
+   "device_id": 10,
+   "sample_time": 1620492569926
+ },
+ {
+   "device_data": {"humidity" :"52.3" , "temperature" :"60.98"},
+   "device_id": 10,
+   "sample_time": 1620493476411
+ },
+ {
+   "device_data": {"humidity" :"51" , "temperature" :"62.24"},
+   "device_id": 10,
+   "sample_time": 1620495290540
+ },
+ {
+   "device_data": {"humidity" :"48.7" , "temperature" :"61.88"},
+   "device_id": 10,
+   "sample_time": 1620497103691
+ },
+ {
+   "device_data": {"humidity" :"48.3" , "temperature" :"63.32"},
+   "device_id": 10,
+   "sample_time": 1620498011427
+ },
+ {
+   "device_data": {"humidity" :"53.3" , "temperature" :"61.34"},
+   "device_id": 10,
+   "sample_time": 1620499824381
+ },
+ {
+   "device_data": {"humidity" :"45.9" , "temperature" :"62.96"},
+   "device_id": 10,
+   "sample_time": 1620503450689
+ },
+ {
+   "device_data": {"humidity" :"43.7" , "temperature" :"62.24"},
+   "device_id": 10,
+   "sample_time": 1620504357176
+ },
+ {
+   "device_data": {"humidity" :"47.3" , "temperature" :"61.16"},
+   "device_id": 10,
+   "sample_time": 1620507983813
+ },
+ {
+   "device_data": {"humidity" :"47.2" , "temperature" :"59.54"},
+   "device_id": 10,
+   "sample_time": 1620510703412
+ },
+ {
+   "device_data": {"humidity" :"47.5" , "temperature" :"60.08"},
+   "device_id": 10,
+   "sample_time": 1620512517303
+ },
+ {
+   "device_data": {"humidity" :"46.5" , "temperature" :"59.54"},
+   "device_id": 10,
+   "sample_time": 1620513424011
+ },
+ {
+   "device_data": {"humidity" :"45.3" , "temperature" :"57.92"},
+   "device_id": 10,
+   "sample_time": 1620516147656
+ },
+ {
+   "device_data": {"humidity" :"47.2" , "temperature" :"57.2"},
+   "device_id": 10,
+   "sample_time": 1620517960691
+ },
+ {
+   "device_data": {"humidity" :"53.4" , "temperature" :"53.42"},
+   "device_id": 10,
+   "sample_time": 1620521586868
+ },
+ {
+   "device_data": {"humidity" :"57.8" , "temperature" :"51.98"},
+   "device_id": 10,
+   "sample_time": 1620522493356
+ },
+ {
+   "device_data": {"humidity" :"59.2" , "temperature" :"51.26"},
+   "device_id": 10,
+   "sample_time": 1620523399954
+ },
+ {
+   "device_data": {"humidity" :"61" , "temperature" :"50.18"},
+   "device_id": 10,
+   "sample_time": 1620524306477
+ },
+ {
+   "device_data": {"humidity" :"64" , "temperature" :"49.64"},
+   "device_id": 10,
+   "sample_time": 1620525213111
+ },
+ {
+   "device_data": {"humidity" :"67" , "temperature" :"48.2"},
+   "device_id": 10,
+   "sample_time": 1620527933952
+ },
+ {
+   "device_data": {"humidity" :"70.7" , "temperature" :"46.58"},
+   "device_id": 10,
+   "sample_time": 1620529746954
+ },
+ {
+   "device_data": {"humidity" :"71.9" , "temperature" :"45.5"},
+   "device_id": 10,
+   "sample_time": 1620532470091
+ },
+ {
+   "device_data": {"humidity" :"71.4" , "temperature" :"46.04"},
+   "device_id": 10,
+   "sample_time": 1620533376630
+ },
+ {
+   "device_data": {"humidity" :"72.7" , "temperature" :"45.5"},
+   "device_id": 10,
+   "sample_time": 1620534286341
+ },
+ {
+   "device_data": {"humidity" :"73.4" , "temperature" :"45.5"},
+   "device_id": 10,
+   "sample_time": 1620535193176
+ },
+ {
+   "device_data": {"humidity" :"74.8" , "temperature" :"44.24"},
+   "device_id": 10,
+   "sample_time": 1620537914038
+ },
+ {
+   "device_data": {"humidity" :"74.5" , "temperature" :"44.06"},
+   "device_id": 10,
+   "sample_time": 1620540633670
+ },
+ {
+   "device_data": {"humidity" :"75.4" , "temperature" :"44.96"},
+   "device_id": 10,
+   "sample_time": 1620546983409
+ },
+ {
+   "device_data": {"humidity" :"75.5" , "temperature" :"46.22"},
+   "device_id": 10,
+   "sample_time": 1620549702989
+ },
+ {
+   "device_data": {"humidity" :"74.7" , "temperature" :"47.12"},
+   "device_id": 10,
+   "sample_time": 1620554236569
+ },
+ {
+   "device_data": {"humidity" :"72.7" , "temperature" :"47.48"},
+   "device_id": 10,
+   "sample_time": 1620557862732
+ },
+ {
+   "device_data": {"humidity" :"68.8" , "temperature" :"48.74"},
+   "device_id": 10,
+   "sample_time": 1620559679241
+ },
+ {
+   "device_data": {"humidity" :"65.9" , "temperature" :"50.18"},
+   "device_id": 10,
+   "sample_time": 1620560585707
+ },
+ {
+   "device_data": {"humidity" :"65.7" , "temperature" :"51.08"},
+   "device_id": 10,
+   "sample_time": 1620561492509
+ },
+ {
+   "device_data": {"humidity" :"63.5" , "temperature" :"51.98"},
+   "device_id": 10,
+   "sample_time": 1620562399262
+ },
+ {
+   "device_data": {"humidity" :"64" , "temperature" :"51.98"},
+   "device_id": 10,
+   "sample_time": 1620564212765
+ },
+ {
+   "device_data": {"humidity" :"57.9" , "temperature" :"54.5"},
+   "device_id": 10,
+   "sample_time": 1620567840562
+ },
+ {
+   "device_data": {"humidity" :"56.7" , "temperature" :"55.04"},
+   "device_id": 10,
+   "sample_time": 1620568747157
+ },
+ {
+   "device_data": {"humidity" :"57.9" , "temperature" :"55.22"},
+   "device_id": 10,
+   "sample_time": 1620569653753
+ },
+ {
+   "device_data": {"humidity" :"69.3" , "temperature" :"62.78"},
+   "device_id": 10,
+   "sample_time": 1620613551218
+ }
+]
