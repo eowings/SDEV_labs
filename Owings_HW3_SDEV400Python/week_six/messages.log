@@ -1,0 +1,5 @@
+2021-04-19 23:39:10 WARNING: * Debugger is active!
+2021-04-19 23:39:10 INFO: * Debugger PIN: 179-598-731
+2021-04-19 23:39:10 INFO: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2021-04-19 23:39:15 INFO:127.0.0.1 - - [19/Apr/2021 23:39:15] "[37mGET /?first_name=Jack&last_name=Ryan&pretty_response=1 HTTP/1.1[0m" 200 -
+2021-04-19 23:39:15 INFO:127.0.0.1 - - [19/Apr/2021 23:39:15] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
